@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Hello World
+title: 1: Self Intro
 ---
 
-# Title
+# Who am I?
 
-## Subtitle
+### Feb 14, 2017
 
-First post on my Github Jekyll page on the first day of the BioHack Academy
+As of spring 2017, I am a third-year undergraduate student at the University of New Mexico in New Mexico, United States. I am currently pursuing a Bachelor's of Science degree in Biochemistry, with minors in Spanish and Psychology. I hope to go on to graduate school for Public Health (MSPH/DrPh).
 
-**bold**
-
-[link to google](www.google.com)
+I found the BioHacking Academy through Andrea Polli, who has previously participated in BHA3. I am very excited to see where this course takes me, as I've always been fascinated by DIY projects that allows you to incorporate biotechnology and design. 
