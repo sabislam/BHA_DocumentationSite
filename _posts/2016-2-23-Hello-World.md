@@ -3,12 +3,6 @@ layout: post
 title: Hello World
 ---
 
-# Title
+# Content shall be uploaded soon!
 
-## Subtitle
-
-First post on my Github Jekyll page on the first day of the BioHack Academy
-
-**bold**
-
-[link to google](www.google.com)
+## Updates on BHA1 projects and on personal projects
