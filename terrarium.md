@@ -6,9 +6,9 @@ permalink: /terrarium/
 
 #### Terrarium Project
 
-[Project Introduction](https://sabislam.github.io/2017-3-1-Introducing-Project/)
+[Project Introduction](https://sabislam.github.io/2017-3-1-Introducing-Project/) - The goal of the project is to create a simulation of a **(1)** self-sustained microecosystem, **(2)** gathering data from each organism/component of this microecosystem, and **(3)** translating these data sets into [generative music](https://en.wikipedia.org/wiki/Generative_music). 
 
-[Bill of Materials](https://sabislam.github.io/2017-3-13-BoM/)
+[Bill of Materials](https://sabislam.github.io/2017-3-13-BoM/) - Materials + expenses
 
 [References](https://sabislam.github.io/2017-3-1-References/)
 
