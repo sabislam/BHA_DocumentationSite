@@ -7,6 +7,8 @@ title: 2: Introducing Project
 
 ### March 01, 2017
 
+![an image alt text]({{ site.baseurl }}/images/DSC_0114.JPG)
+
 The goal of the project is to create a simulation of a **(1)** self-sustained microecosystem, **(2)** gathering data from each organism/component of this microecosystem, and **(3)** translating these data sets into [generative music](https://en.wikipedia.org/wiki/Generative_music). 
 
 
@@ -54,3 +56,5 @@ Some form of data transformation/translation should occur as soon as some data h
 + [MIDI](https://en.wikipedia.org/wiki/MIDI) use
 + [Mathematica](https://www.wolfram.com/mathematica/) (program)
 + Arduino
+
+_Last updated 19 March 2017_
