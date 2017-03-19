@@ -17,10 +17,22 @@ A self-sustained microecosystem can be simulating using a [terrarium](https://en
 
 **Materials:**
 1. Container
++ Aquarium tank
 2. Drainage System
++ Rocks/pebbles
++ [Horticultural charcoal](https://www.reference.com/home-garden/horticultural-charcoal-178ec666b42d1aba)
 3. Soil
++ Potting Mix
++ Peat Moss
 4. Plants
-5. Microorganisms
++ ferns
++ moss
++ _any plant adapted for humidity/indirect-light invironment_
++ _NOT succulents!!_
+5. Microorganisms (optional)
++ beneficial bacteria
++ slime mold
++ _???_
 
 #### Data Collection
 
