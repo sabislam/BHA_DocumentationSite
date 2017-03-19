@@ -9,7 +9,7 @@ title: 2: Introducing Project
 
 ![an image alt text]({{ site.baseurl }}/images/DSC_0114.JPG)
 
-The goal of the project is to create a simulation of a **(1)** self-sustained microecosystem, **(2)** gathering data from each organism/component of this microecosystem, and **(3)** translating these data sets into [generative music](https://en.wikipedia.org/wiki/Generative_music). 
+The goal of the project is to create a simulation of a **(1)** self-sustained microecosystem, **(2)** gather data from each organism/component of this microecosystem, and **(3)** translate these data sets into [generative music](https://en.wikipedia.org/wiki/Generative_music). 
 
 
 #### Self-sustained Microecosystem
